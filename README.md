@@ -14,7 +14,3 @@
 
 **Frameworks & Tools:**  
 `React` `Node.js` `Flask` `TailwindCSS` `TensorFlow` `Git`
-
----
-
-⭐️ From LAKSHYA GUPTA(https://github.com/lakshgupta8)  
