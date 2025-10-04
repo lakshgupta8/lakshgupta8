@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**lakshgupta8/lakshgupta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me  
+- 🚀 Passionate about **Software Development**, **AI/ML**, and **Open Source**.  
+- 🌱 Currently learning **React**.  
+- 🔭 Working on **EQUANO - A Graphical Calculator**.  
+- 🎯 Goal: To build impactful solutions and contribute to meaningful open-source projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+**Languages:**  
+`C++` `Python` `JavaScript`  
+
+**Frameworks & Tools:**  
+`React` `Node.js` `Flask` `TailwindCSS` `TensorFlow` `Git`
+
+---
+
+⭐️ From LAKSHYA GUPTA(https://github.com/lakshgupta8)  
