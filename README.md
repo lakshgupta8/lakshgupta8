@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Lakshya Gupta
 
 ### 💻 About Me  
 - 🚀 Passionate about **Software Development**, **AI/ML**, and **Open Source**.  
