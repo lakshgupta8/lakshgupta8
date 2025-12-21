@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack  
 **Languages:**  
-`C++` `Python` `JavaScript`  
+`C++` `Python` `JavaScript` `TypeScript` `Java`  
 
 **Frameworks & Tools:**  
-`React` `Node.js` `Flask` `TailwindCSS` `TensorFlow` `Git`
+`React` `Node.js` `Django` `TailwindCSS` `TensorFlow` `Git` `MySQL` `Hono`
